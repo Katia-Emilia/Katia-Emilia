@@ -1,5 +1,12 @@
 ### Hey there :wave:
 
+<img src="https://raw.githubusercontent.com/Ktaia-Emilia/Katia-Emilia/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Katia-Emilia/count.svg" />
+</p>
+
 I'm Katia, a CSE student from India
 
 - 💻 I'm a novice SWE, eager to learn and advance my skills and knowledge
