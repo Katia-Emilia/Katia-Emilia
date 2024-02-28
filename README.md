@@ -11,9 +11,12 @@ Let's connect and grow together! 🚀
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/Katia-Emilia/count.svg" />
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Katia-Emilia&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 </p>
-
+<p align="center">
+  <a href="https://streak-stats.demolab.com?user=Katia-Emilia&theme=github-dark&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=Katia-Emilia&theme=github-dark&hide_border=true" alt="GitHub Streak">
+  </a>
+</p>
 
 ![Katia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katia-Emilia&show_icons=true&theme=dark&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katia-Emilia&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
