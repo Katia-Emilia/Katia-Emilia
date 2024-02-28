@@ -18,10 +18,9 @@ Let's connect and grow together! 🚀
   </a>
 </p>
 
-<div style="display: inline-block;">
   ![Katia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katia-Emilia&show_icons=true&theme=dark&hide_border=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katia-Emilia&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Katia-Emilia&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
