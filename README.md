@@ -10,7 +10,7 @@ I'm Katia, a CSE student from India
    
 Let's connect and grow together! 🚀
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Katia-Emilia&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![Katia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katia-Emilia&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Katia-Emilia&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+![Katia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katia-Emilia&show_icons=true&theme=dark&hide_border=true)
 
 
