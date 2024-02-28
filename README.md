@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**Katia-Emilia/Katia-Emilia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Katia, a CSE student from India
 
-Here are some ideas to get you started:
+- 💻 I'm a novice SWE, eager to learn and advance my skills and knowledge
+- 🌟 Currently open to opportunities and excited to gain experience in the field
+- How to Reach Me:
+	- 📎 LinkedIn: https://www.linkedin.com/in/katia-vaz-a150ab250/
+	- 📧 Email: vazkatia07@gmail.com
+ - 
+Let's connect and grow together! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Katia-Emilia&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
