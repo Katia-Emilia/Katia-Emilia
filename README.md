@@ -14,6 +14,7 @@ Let's connect and grow together! 🚀
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Katia-Emilia/count.svg" />
 </p>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Katia-Emilia&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 ![Katia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katia-Emilia&show_icons=true&theme=dark&hide_border=true)
 
