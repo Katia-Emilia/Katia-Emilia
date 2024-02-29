@@ -15,10 +15,6 @@ Let's connect and grow together!🚀
 
 # My Stats
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Katia-Emilia/count.svg" />
-</p>
 <p align="center">
   <a href="https://streak-stats.demolab.com?user=Katia-Emilia&theme=github-dark&hide_border=true">
     <img src="https://streak-stats.demolab.com?user=Katia-Emilia&theme=github-dark&hide_border=true" alt="GitHub Streak">
@@ -31,5 +27,14 @@ Let's connect and grow together!🚀
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Katia-Emilia&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+
+# 
+
+<p align="center"> 
+  Thanks for visiting my profile, see you next time!
+  <br>
+  
+  <img src="https://profile-counter.glitch.me/Katia-Emilia/count.svg" />
+</p>
 
 
