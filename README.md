@@ -2,7 +2,8 @@
 
 # About me 
 
-- 💻 I'm a novice SWE, eager to learn and advance my skills and knowledge
+- 💻 Novice SWE
+- 🌱 Eager to learn and advance my skills and knowledge
 - 🌟 Currently open to opportunities and excited to gain experience in the field
 
 # Get in touch 
