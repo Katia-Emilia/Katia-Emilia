@@ -8,11 +8,11 @@
 
 # Get in touch 
 
-📧 Email : vazkatia07@gmail.com
+📬Email : vazkatia07@gmail.com
 
-Let's connect and grow together!🚀
+Connect with me🚀
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Katia-Emilia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/katia-vaz-a150ab250/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/Katia-Emilia)  
+ [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' alt='linkedin' width='30' height='40'>](https://www.linkedin.com/in/katia-vaz-a150ab250/)   [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg' alt='codepen' width='30' height='40'>](https://codepen.io/Katia-Emilia)  
 
 # My Stats
 <!--
