@@ -27,9 +27,10 @@ Connect with me🚀
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Katia-Emilia&theme=darkhub&column=6&margin-w=20&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!-- 
 ![](https://komarev.com/ghpvc/?username=Katia-Emilia)
 
-<!-- 
+
 [![Holopin board](https://holopin.me/katiaemilia)](https://holopin.io/@katiaemilia) -->
 
 # 
